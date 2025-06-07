@@ -4,7 +4,7 @@
 [![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Letras+Bonitas+Text+Generator" alt="Letras Bonitas Preview">
+  <img src="[https://via.placeholder.com/800x400.png]([https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD0biQus_3lChmbEbUkR9-XeauEWXQaO2E1tqTRMIDVoRFULBelsv7rhU45Re-Zp9HUAz5x-CPmf78mxL52nmuWjIpZLliXLJXiVlK_RXX9AW44C9NoPp_2Mev8_pVKKIr9e-5hyphenhyphenk14D4/s0/apple-touch-icon.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2ZxoBKVLoUG5Tncvb9AJAlvBhl0u2evIYDZLcPj6MCi-LHloYvQeHZko9d6wpgXaKXce4_PpDzY1M-lI9UIZJaapUzpVMA90DUmXe2CwDOZ6jk00FW86Du33AyAWo9NroQBZVEXQMlbQ/s16000/Letras-Bonitas-compressed.jpg)?text=Letras+Bonitas+Text+Generator" alt="Letras Bonitas Preview">
   <br>
   <em>Transform ordinary text into beautiful, stylish fonts instantly!</em>
 </p>
