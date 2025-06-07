@@ -11,10 +11,9 @@
 
 Crea <a href="https://www.letras-bonitas.net/" target="_blank">letras bonitas</a> y <a href="https://www.letras-bonitas.net/" target="_blank">letras lindas</a> perfectas para:
 
-- 🎮 <a href="https://www.letras-bonitas.net/" target="_blank">Nombres para Free Fire</a> con estilo único
+- 🎮  con estilo único
 - 💌 <a href="https://www.letras-bonitas.net/" target="_blank">Frases para copiar y pegar</a> en redes sociales
 - 🎂 Mensajes de <a href="https://www.letras-bonitas.net/" target="_blank">feliz cumpleaños con letras bonitas</a>
-- 📛 <a href="https://www.letras-bonitas.net/" target="_blank">Nombres con letras bonitas</a> para juegos y perfiles
 
 ## 💎 Características Principales
 
